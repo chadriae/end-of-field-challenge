@@ -1,6 +1,6 @@
 html {
     box-sizing: border-box;
-  }
+}
   
 body {
   height: 100%;
@@ -11,11 +11,9 @@ body {
 #mockup {
   width: 721px;
   height: 710px;
-   
-    /*
-    background-image: url(https://raw.githubusercontent.com/becodeorg/gnt-verou-1-26/master/1.The-Field/4.HTML-CSS/5.End-of-Field/2.End-of-Field-Challenge/images/normal-res/simple/interface.04.png?token=AQB72OAOX7BAX22NDO7LPU27VJHNA);
-    */
- 
+  /*
+  background-image: url(https://raw.githubusercontent.com/becodeorg/gnt-verou-1-26/master/1.The-Field/4.HTML-CSS/5.End-of-Field/2.End-of-Field-Challenge/images/normal-res/simple/interface.04.png?token=AQB72OAOX7BAX22NDO7LPU27VJHNA);
+  */
   position: absolute;
   top: 0;
   left: 0;
@@ -33,13 +31,13 @@ body {
   margin-left: 6px;
 }
   
-  .text {
-    width: calc(721px - 6px - 6px);
-    height: calc(710px - 473px - 6px - 6px);
-    margin: 0 6px 6px 6px;
-    text-align: center;
-    font-family: 'IBM Plex Serif', serif;
-  }
+.text {
+  width: calc(721px - 6px - 6px);
+  height: calc(710px - 473px - 6px - 6px);
+  margin: 0 6px 6px 6px;
+  text-align: center;
+  font-family: 'IBM Plex Serif', serif;
+}
   
   .text h2 {
     margin: 0;
@@ -58,6 +56,11 @@ body {
     font-weight: normal;
   }
 
+  hr {
+    width: 10%;
+    border-top: lightgray;
+  }
+
   .text p {
     margin-left: 105px;
     margin-right: 105px;
@@ -69,9 +72,4 @@ footer {
   color: #b5b5b5;
   font-size: 9pt;
   font-weight: 600;
-}
-
-hr {
-  width: 10%;
-  border-top: lightgray;
 }

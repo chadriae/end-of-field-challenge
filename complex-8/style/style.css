@@ -1,6 +1,6 @@
 html {
     box-sizing: border-box;
-  }
+}
   
 body {
   height: 100%;
@@ -35,7 +35,7 @@ body {
     display: flex;
 }
 
-.right {
+.side-right {
     background-color: white;
     margin: 12px 0 12px 0px;
     width: calc(1223px - 12px - 12px - 487px);

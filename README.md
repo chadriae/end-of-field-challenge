@@ -4,6 +4,7 @@
 - Either recreate 2 simple interfaces, or 1 simple and 1 complex, or all at once
 - No frameworks are allowed
 - `solo` : no help of fellow juniors 
+- [Criteria](https://github.com/becodeorg/gnt-verou-1-26/blob/master/1.The-Field/4.HTML-CSS/5.End-of-Field/2.End-of-Field-Challenge/Criteria.md) used for a well-structured result
 - Use `git` and `GitHub` for deployment.
 
 ## Results
