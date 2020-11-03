@@ -1,17 +1,28 @@
 # end-of-field-challenge
-## Create pixel-perfect copies ONLY using CSS and HTML 
+## Challenge
+- Create pixel-perfect copies ONLY using CSS and HTML
+- No frameworks are allowed
+- `solo` : no help of fellow juniors 
 
+<br><br>
 
-### simple
-#### Interface 1
+## Simple
+#### Interface 
 - [Interface 1](interface-1)
 
-#### Interface 4
 - [Interface 2](interface-4)
 
-### complex
-#### Complex 8
+## Complex
 - [Complex 8](complex-8)
+<br><br>
 
-## Remarks
-The interfaces don't match pixel-perfect on the font-side. I purposly didn't spend way too much time on finding the exact font as I wanted to finish all the interfaces at the end of the day.
+## Tools used
+- HTML and CSS
+- Visual Studio Code
+- W3Schools
+- Google-skills
+- [Flaticon](https://www.flaticon.com/home)
+- [Colorslurp](https://colorslurp.com/)
+- [Google Fonts](https://fonts.google.com/)
+<br><br>
+
