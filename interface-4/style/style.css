@@ -1,13 +1,13 @@
 html {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
-  
+
 body {
   height: 100%;
   width: 100%;
   margin: 0;
 }
-  
+
 #mockup {
   width: 721px;
   height: 710px;
@@ -30,43 +30,43 @@ body {
   background-repeat: no-repeat;
   margin-left: 6px;
 }
-  
+
 .text {
   width: calc(721px - 6px - 6px);
   height: calc(710px - 473px - 6px - 6px);
   margin: 0 6px 6px 6px;
   text-align: center;
-  font-family: 'IBM Plex Serif', serif;
+  font-family: "IBM Plex Serif", serif;
 }
-  
-  .text h2 {
-    margin: 0;
-    font-size: 13px;
-    font-weight: normal;
-    text-align: right;
-    color: #d8d8d8;
-  }
 
-  .text h1 {
-    margin-top: 15px;
-    margin-left: 170px;
-    margin-right: 170px;
-    line-height: 100%;
-    font-size: 24pt;
-    font-weight: normal;
-  }
+.text h2 {
+  margin: 0;
+  font-size: 13px;
+  font-weight: normal;
+  text-align: right;
+  color: #d8d8d8;
+}
 
-  hr {
-    width: 10%;
-    border-top: lightgray;
-  }
+.text h1 {
+  margin-top: 15px;
+  margin-left: 170px;
+  margin-right: 170px;
+  line-height: 100%;
+  font-size: 24pt;
+  font-weight: normal;
+}
 
-  .text p {
-    margin-left: 105px;
-    margin-right: 105px;
-    color: #636363;
-  }
-  
+hr {
+  width: 10%;
+  border-top: lightgray;
+}
+
+.text p {
+  margin-left: 105px;
+  margin-right: 105px;
+  color: #636363;
+}
+
 footer {
   font-family: sans-serif;
   color: #b5b5b5;
