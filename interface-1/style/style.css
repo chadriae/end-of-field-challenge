@@ -1,0 +1,66 @@
+html {
+    box-sizing: border-box;
+  }
+  
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+  
+#mockup {
+  width: 347px;
+  height: 130px;
+   
+ /*
+  background-image: url(https://raw.githubusercontent.com/becodeorg/gnt-verou-1-26/master/1.The-Field/4.HTML-CSS/5.End-of-Field/2.End-of-Field-Challenge/images/normal-res/simple/interface.01.png?token=AQB72OFSZV5GXDRDWTUXOIC7VJSIM);
+*/
+ 
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.8;
+  z-index: 10;
+  pointer-events: none;
+}
+
+#image {
+  width: 115px;
+  height: 72px;
+  margin: 15px;
+  background-image: url(../img/work.png);
+  background-repeat: no-repeat;
+}
+
+
+.container {
+  width: 321px;
+  height: 104px;
+  margin: 13px 0 13px 13px;
+  background-color: white;
+  display: flex;
+  border-radius: 13px;
+}
+
+.text {
+  font-family: 'Lato', sans-serif;
+}
+
+.text h3 {
+  font-size: 7pt;
+  color: #717171;
+  margin: 19px 0 10px 22px;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.text h2 {
+  font-size: 10pt;
+  margin: 0 0 0 22px;
+  line-height: 18px;
+  font-weight: bold;
+}
+
+
+  
