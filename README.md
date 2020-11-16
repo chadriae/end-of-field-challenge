@@ -31,6 +31,7 @@ Here is a list of the used tools for this exercise:
 - [Flaticon](https://www.flaticon.com/home)
 - [Colorslurp](https://colorslurp.com/)
 - [Google Fonts](https://fonts.google.com/)
+- Pixel-perfect background [method](https://codepen.io/mjsarfatti/pen/bGEajJY?editors=1100) by Manuele
 
 ## Awarded badges:
 
